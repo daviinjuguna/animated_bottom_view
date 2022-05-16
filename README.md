@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[](https://gfycat.com/ifr/RingedDescriptiveAssassinbug.gif)
+![DEMO](https://user-images.githubusercontent.com/55935461/168574798-53e9f0fb-cdc4-4a19-bff5-9f5240b6f99b.gif)
